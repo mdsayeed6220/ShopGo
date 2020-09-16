@@ -1,6 +1,5 @@
-import React from 'react';
+import React from 'react'
 import './homepage.scss'
-
 
 class Homepage extends React.Component {
   render() {
@@ -20,8 +19,8 @@ class Homepage extends React.Component {
                 <span className="subtitle">Shop now</span>
               </div>
             </div>
-            <div classNammenu-item">
-              <div className="contee="nt">
+            <div className="menu-item">
+              <div className="content">
                 <h1 className="title">Sneakers</h1>
                 <span className="subtitle">Shop now</span>
               </div>
