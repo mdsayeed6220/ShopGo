@@ -11,7 +11,7 @@
 ## Tech Stack Involved Building this Project
 #### React 
 #### Redux
-#### Hooks
+#### SASS
 #### GraphQL
 #### Firebase & Firestore
 #### Stripe
